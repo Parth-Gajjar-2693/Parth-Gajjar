@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parth Gajjar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Web development**
 
