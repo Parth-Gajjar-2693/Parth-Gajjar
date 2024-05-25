@@ -11,7 +11,6 @@ Hi 👋, I'm Parth Gajjar
 
 - ⚡ Fun fact **I am funny guy around selected people**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
